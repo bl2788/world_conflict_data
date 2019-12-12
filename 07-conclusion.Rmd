@@ -1,2 +1,3 @@
 # Conclusion
 
+As we went over all proposed questions related to the exploration of the dataset, we acquired a lot of interesting findings and 
